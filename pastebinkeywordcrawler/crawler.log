@@ -1,0 +1,103 @@
+2025-05-21 20:42:47,510 - INFO - Starting Pastebin crawler
+2025-05-21 20:42:48,329 - INFO - Found 50 paste IDs in the archive
+2025-05-21 20:42:48,330 - INFO - Processing paste: G0q4h8xM
+2025-05-21 20:42:48,331 - INFO - Processing paste: BbrX7Pxa
+2025-05-21 20:42:48,332 - INFO - Processing paste: fJq38MHt
+2025-05-21 20:42:48,332 - INFO - Processing paste: cYzZcGLe
+2025-05-21 20:42:48,333 - INFO - Processing paste: XrUfXDLw
+2025-05-21 20:42:50,428 - INFO - No keywords found in paste XrUfXDLw
+2025-05-21 20:42:50,428 - INFO - Processing paste: Ynd052PJ
+2025-05-21 20:42:51,658 - INFO - No keywords found in paste cYzZcGLe
+2025-05-21 20:42:51,658 - INFO - Found keywords ['eth'] in paste fJq38MHt
+2025-05-21 20:42:51,659 - INFO - Processing paste: rAGBKF4h
+2025-05-21 20:42:51,661 - INFO - Processing paste: q0QPNxtK
+2025-05-21 20:42:52,690 - INFO - Found keywords ['eth'] in paste BbrX7Pxa
+2025-05-21 20:42:52,691 - INFO - Found keywords ['eth'] in paste G0q4h8xM
+2025-05-21 20:42:52,691 - INFO - Processing paste: jR2MAfWd
+2025-05-21 20:42:52,692 - INFO - Processing paste: 5hT88xPc
+2025-05-21 20:42:54,542 - INFO - Found keywords ['eth'] in paste q0QPNxtK
+2025-05-21 20:42:54,542 - INFO - Processing paste: 6mb6JV8P
+2025-05-21 20:42:54,724 - INFO - Found keywords ['eth'] in paste rAGBKF4h
+2025-05-21 20:42:54,725 - INFO - Processing paste: Bt5MAdfT
+2025-05-21 20:42:54,807 - INFO - Found keywords ['eth'] in paste Ynd052PJ
+2025-05-21 20:42:54,807 - INFO - Processing paste: x0D69zue
+2025-05-21 20:42:56,071 - INFO - Found keywords ['eth'] in paste jR2MAfWd
+2025-05-21 20:42:56,072 - INFO - Processing paste: tXLFSXz4
+2025-05-21 20:42:56,090 - INFO - Found keywords ['eth'] in paste 5hT88xPc
+2025-05-21 20:42:56,091 - INFO - Processing paste: ghQ5ze7n
+2025-05-21 20:42:58,001 - INFO - Found keywords ['eth'] in paste x0D69zue
+2025-05-21 20:42:58,001 - INFO - Processing paste: 2Tja47TM
+2025-05-21 20:42:58,246 - INFO - Found keywords ['eth'] in paste 6mb6JV8P
+2025-05-21 20:42:58,247 - INFO - Processing paste: QjcrHZwS
+2025-05-21 20:42:58,853 - INFO - Found keywords ['eth'] in paste Bt5MAdfT
+2025-05-21 20:42:58,854 - INFO - No keywords found in paste ghQ5ze7n
+2025-05-21 20:42:58,854 - INFO - Processing paste: 1Q6Y1tva
+2025-05-21 20:42:58,855 - INFO - Processing paste: FLZJ2YtF
+2025-05-21 20:42:59,251 - INFO - Found keywords ['eth'] in paste tXLFSXz4
+2025-05-21 20:42:59,251 - INFO - Processing paste: tW1a5iTy
+2025-05-21 20:42:59,853 - INFO - Found keywords ['eth'] in paste 2Tja47TM
+2025-05-21 20:42:59,854 - INFO - Processing paste: ijgxjNfb
+2025-05-21 20:43:01,476 - INFO - Found keywords ['eth'] in paste FLZJ2YtF
+2025-05-21 20:43:01,478 - INFO - Processing paste: jZtkQfMN
+2025-05-21 20:43:01,479 - INFO - Found keywords ['eth'] in paste QjcrHZwS
+2025-05-21 20:43:01,479 - INFO - Processing paste: SeJWTHHp
+2025-05-21 20:43:02,101 - INFO - Found keywords ['eth'] in paste 1Q6Y1tva
+2025-05-21 20:43:02,103 - INFO - Found keywords ['eth'] in paste tW1a5iTy
+2025-05-21 20:43:02,103 - INFO - Processing paste: SNatxNFV
+2025-05-21 20:43:02,103 - INFO - Processing paste: XDYqYeQA
+2025-05-21 20:43:02,639 - INFO - Found keywords ['eth'] in paste ijgxjNfb
+2025-05-21 20:43:02,639 - INFO - Processing paste: fUw80bxu
+2025-05-21 20:43:04,455 - INFO - Found keywords ['eth'] in paste SeJWTHHp
+2025-05-21 20:43:04,456 - INFO - Processing paste: kr1RnrWZ
+2025-05-21 20:43:04,768 - INFO - Found keywords ['eth'] in paste XDYqYeQA
+2025-05-21 20:43:04,769 - INFO - Found keywords ['eth'] in paste SNatxNFV
+2025-05-21 20:43:04,770 - INFO - Processing paste: 5SHYa6zC
+2025-05-21 20:43:04,770 - INFO - Processing paste: e3upWMYf
+2025-05-21 20:43:06,122 - INFO - Found keywords ['eth'] in paste fUw80bxu
+2025-05-21 20:43:06,123 - INFO - Processing paste: dcyLnFrB
+2025-05-21 20:43:06,123 - INFO - Found keywords ['eth'] in paste jZtkQfMN
+2025-05-21 20:43:06,124 - INFO - Processing paste: aejYst75
+2025-05-21 20:43:07,189 - INFO - Found keywords ['eth'] in paste kr1RnrWZ
+2025-05-21 20:43:07,189 - INFO - Processing paste: pN5MJtv9
+2025-05-21 20:43:08,241 - INFO - Found keywords ['eth'] in paste e3upWMYf
+2025-05-21 20:43:08,242 - INFO - Processing paste: Dv0Xriiu
+2025-05-21 20:43:08,506 - INFO - Found keywords ['eth'] in paste dcyLnFrB
+2025-05-21 20:43:08,506 - INFO - Processing paste: hWvQpuLg
+2025-05-21 20:43:09,065 - INFO - No keywords found in paste 5SHYa6zC
+2025-05-21 20:43:09,065 - INFO - Processing paste: Yhmg13q0
+2025-05-21 20:43:09,718 - INFO - Found keywords ['eth'] in paste pN5MJtv9
+2025-05-21 20:43:09,718 - INFO - Processing paste: AJjMtcJu
+2025-05-21 20:43:09,838 - INFO - Found keywords ['eth'] in paste aejYst75
+2025-05-21 20:43:09,838 - INFO - Processing paste: mvUC4NQE
+2025-05-21 20:43:11,332 - INFO - Found keywords ['eth'] in paste hWvQpuLg
+2025-05-21 20:43:11,333 - INFO - Processing paste: aHQyMtUB
+2025-05-21 20:43:11,334 - INFO - Found keywords ['eth'] in paste Dv0Xriiu
+2025-05-21 20:43:11,334 - INFO - Processing paste: Eu0Q4Gs4
+2025-05-21 20:43:11,830 - INFO - Found keywords ['eth'] in paste Yhmg13q0
+2025-05-21 20:43:11,831 - INFO - Processing paste: DjnkxPnb
+2025-05-21 20:43:12,739 - INFO - No keywords found in paste AJjMtcJu
+2025-05-21 20:43:12,739 - INFO - Processing paste: qMjcrpr7
+2025-05-21 20:43:13,875 - INFO - Found keywords ['eth'] in paste Eu0Q4Gs4
+2025-05-21 20:43:13,875 - INFO - Processing paste: 7CFXnEv0
+2025-05-21 20:43:14,131 - INFO - Found keywords ['eth'] in paste mvUC4NQE
+2025-05-21 20:43:14,131 - INFO - Processing paste: WUR8rT24
+2025-05-21 20:43:15,315 - INFO - Found keywords ['eth'] in paste DjnkxPnb
+2025-05-21 20:43:15,316 - INFO - Processing paste: dkfwmsMS
+2025-05-21 20:43:15,317 - INFO - Found keywords ['eth'] in paste aHQyMtUB
+2025-05-21 20:43:15,318 - INFO - Found keywords ['eth'] in paste qMjcrpr7
+2025-05-21 20:43:15,318 - INFO - Processing paste: 6G3mkwu9
+2025-05-21 20:43:15,319 - INFO - Processing paste: bK07tX6e
+2025-05-21 20:43:16,762 - INFO - Found keywords ['eth'] in paste 7CFXnEv0
+2025-05-21 20:43:16,762 - INFO - Processing paste: DceRitWM
+2025-05-21 20:43:17,790 - INFO - Found keywords ['eth'] in paste dkfwmsMS
+2025-05-21 20:43:17,791 - INFO - Found keywords ['eth'] in paste bK07tX6e
+2025-05-21 20:43:17,791 - INFO - Processing paste: yYG6Lytc
+2025-05-21 20:43:17,792 - INFO - Processing paste: m9iePgp3
+2025-05-21 20:43:18,096 - INFO - No keywords found in paste WUR8rT24
+2025-05-21 20:43:18,096 - INFO - Processing paste: 97auN1va
+2025-05-21 20:43:18,382 - INFO - Found keywords ['eth'] in paste 6G3mkwu9
+2025-05-21 20:43:19,814 - INFO - Found keywords ['eth'] in paste m9iePgp3
+2025-05-21 20:43:19,815 - INFO - Found keywords ['eth'] in paste 97auN1va
+2025-05-21 20:43:21,071 - INFO - Found keywords ['eth'] in paste DceRitWM
+2025-05-21 20:43:22,303 - INFO - Found keywords ['eth'] in paste yYG6Lytc
+2025-05-21 20:43:22,311 - INFO - Crawler finished. Found 44 pastes with matching keywords.
